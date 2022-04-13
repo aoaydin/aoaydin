@@ -30,6 +30,8 @@
 <a href="https://twitter.com/estabienn__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@xleatz" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://t.me/xleatz" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/abdurrahman-ayd%C4%B1n-97629678/" target="blank"><img align="center" src="https://img.shields.io/badge/Linked-in-1DA1F2?style=flat&logo=Linked-in&logoColor=white" alt="Linked-In" /></a>
+<a href="https://stackoverflow.com/users/8784421/abdurrahman-ayd%c4%b1n" target="blank"><img align="center" src="https://img.shields.io/badge/Stack-Overflow-1DA1F2?style=flat&logo=Stack-Overflow&logoColor=white" alt="Stack-Overflow" /></a>  
 </p>
 
 
