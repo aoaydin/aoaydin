@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
-<h3 align="center">Developer (28) from Istanbul</h3>
+<h3 align="center">Developer & Cyber Security (28) from Kahramanmaraş</h3>
 
+![](https://komarev.com/ghpvc/?username=aoaydin&style=for-the-badge)
 
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
@@ -14,13 +15,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go&logoColor=29B6F6)&nbsp;
 ### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/xleatz">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=xleatz&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="xleatz"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xleatz&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="xleatz"/>
+<a href="https://github.com/aoaydin">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aoaydin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="aoaydin"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aoaydin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="xleatz"/>
 </a>
 </p>
 
