@@ -34,7 +34,7 @@
 <a href="https://stackoverflow.com/users/8784421/abdurrahman-ayd%c4%b1n" target="blank"><img align="center" src="https://img.shields.io/badge/Stack-Overflow-1DA1F2?style=flat&logo=Stack-Overflow&logoColor=white" alt="Stack-Overflow" /></a>  
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c7wfulyw4mzczlzxhj16x0oxv&cover_image=true&theme=default&bar_color=13c331&bar_color_cover=true)](https://github.com/xleatz)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c7wfulyw4mzczlzxhj16x0oxv&cover_image=true&theme=novatorem&bar_color=13c331&bar_color_cover=false)](https://github.com/xleatz)
 
 <!--
 **xleatz/xleatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
