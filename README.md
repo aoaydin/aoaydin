@@ -16,6 +16,10 @@
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go&logoColor=29B6F6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=E34F26)&nbsp;
+![Jquery](https://img.shields.io/badge/Jquery-05122A?style=flat&logo=Jquery&logoColor=29B6F6)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=Linux)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=Powershell)&nbsp;
 ### 📊 GitHub Analytics
 
 <p align="center">
