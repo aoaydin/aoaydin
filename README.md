@@ -18,7 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C#](https://img.shields.io/badge/C%23-C%23-05122A?style=flat&logo=C#&logoColor=007ACC)&nbsp;
+![C#](https://img.shields.io/badge/C%23-C%23-05122A?style=flat&logo=C#)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go&logoColor=29B6F6)&nbsp;
