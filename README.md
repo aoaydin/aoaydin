@@ -26,6 +26,7 @@
 ![Jquery](https://img.shields.io/badge/Jquery-05122A?style=flat&logo=Jquery&logoColor=29B6F6)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=Powershell)&nbsp;
+![Java Script](https://img.shields.io/badge/Java-Script-05122A?style=flat&logo=Java-Script)&nbsp;
 ### 📊 GitHub Analytics
 
 <p align="center">
