@@ -46,7 +46,7 @@
 <a href="https://stackoverflow.com/users/8784421/abdurrahman-ayd%c4%b1n" target="blank"><img align="center" src="https://img.shields.io/badge/Stack-Overflow-1DA1F2?style=flat&logo=Stack-Overflow&logoColor=white" alt="Stack-Overflow" /></a>  
 </p>
 
-
+[![Build](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](buymeacoffee.com/aoaydin)
 <!--
 **xleatz/xleatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
