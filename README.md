@@ -9,9 +9,20 @@
 
 ### 🌟 About Me
 
-🔍 Passionate about **Cyber Security** and **Development**.  
-📍 Based in **Kahramanmaraş**, Turkey.  
-💡 Always learning and exploring new technologies.  
+🔍 **Cyber Security Enthusiast & Full-Stack Developer** with a passion for building secure and scalable applications.  
+📍 Based in **Kahramanmaraş**, Turkey, with over 10 years of experience in development and cybersecurity.  
+📊 Skilled in **Python** and backend frameworks like **Flask**, as well as **Java**, **Go**, and more.  
+🚀 Proficient in using **Linux**, **Bash scripting**, and working with **Windows** environments for both development and cybersecurity projects.  
+🎯 Experienced in **ComfyUI** and managing complex pipelines for AI-driven workflows and visual modeling.  
+🔒 Strong interest in **ethical hacking** and advanced **cybersecurity protocols** to protect systems and data integrity.  
+🌱 Continuously learning and diving deep into **AI-driven image generation tools** like Vision Realistic Flux models to merge creativity with technology.  
+🎨 Actively exploring ways to combine **artificial intelligence**, **programming**, and **design** into seamless user experiences.  
+
+💡 I enjoy sharing knowledge, solving challenging problems, and contributing to open-source communities. Ask me about:  
+- 📂 Efficient data pipelines and automation.  
+- 🌐 AI-based workflows and creative tools.  
+- 📜 Best practices for secure software development.
+ 
 
 ---
 
